@@ -1,0 +1,63 @@
+*{
+    text-align: center;
+    font-family: Verdana;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+  }
+table{
+  width:100%;
+}
+  .time {
+    width:180px;
+    font-size: 20px;
+    padding: 15px;
+   
+  }
+  h1{
+  color: blue;
+  }
+  h2{
+    color: #efcd41;
+  }
+  /*clases de las clases*/
+  .LMSGI{
+  background-color: #8a2be2;
+  }
+  .BD{
+  background-color: #ffa500;
+    }
+  .P_ED{
+    background-color: #adff2f;
+  }
+  .SI{background-color: #ff00ff;
+  }
+  .TUT{
+    background-color: #008000;
+  }
+  .AN{
+    background-color: #a52a2a;
+  }
+  .IPOI{
+    background-color: #00ffff;
+  }
+
+  .DIW{
+    background-color: #8cff88;
+  }
+
+    /*clase de descanso*/
+  #descans{
+    text-align: center; 
+    font-size: 20px;
+    padding: 15px;
+  }
+  /*clase days*/
+  .days{
+    background-color: #84fe84;
+    padding: 30px;
+    font-size: 25px;
+    height: 70px;
+  }
